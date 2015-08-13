@@ -1,0 +1,11 @@
+main: com.ulticraft.roguerainbow.RogueRainbow
+name: RogueRainbow
+version: 1.0
+commands:
+  roguerainbow:
+    aliases: rr
+    description: Base RogueRage Command
+  rrj:
+    description: Join Game Alias
+  rrq:
+    description: Quit Game Alias
